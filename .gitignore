@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+slides/dist/
+slides/node_modules/
+.DS_Store
